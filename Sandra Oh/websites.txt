@@ -41,4 +41,48 @@ VIDEOS:
 PHOTOS USED:
 1, 2, 3, 4, 5, 6, 7, 8.0
 ------------------------------
+Theme: My website background picture  is a surgical operating room because Sandra Oh starred in Grey's Anatomy for almost 10 years. The div is a dark blue because Sandra Oh's character Cristina was an attending at Grey-Sloan Memorial Hospital when she left, and attending's scrubs are in the same shade of dark blue. 
+
+
+Intern colour https://www.color-hex.com/color/92b0ec
+
+
+Fonts: 
+
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Comfortaa&family=Lora&display=swap" rel="stylesheet">
+CSS rules to specify families
+font-family: 'Cinzel', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Lora', serif;
+
+
+		
+		
+		
+			-Judging Amy (2001)- Detective Shelly Tran
+			-Arli$$ (1996-2002)- Rita Wu
+			-The Proud Family (2001-2002)- Marsha Mitsubishi
+			-Odd Job Jack (2006)- Vanessa
+			-American Dragon: Jake Long (2006-2007)- Sun Park
+			-Robot Chicken (2009)
+			-Michael: Every Day (2011)- Dr. Judy Song
+			-Phineas and Ferb (2008-2012)
+			-American Dad! (2005-2013)
+			-Grey's Anatomy (2005-2014)- Dr. Cristina Yang
+			-Betas (2014)- Sharron
+			-S****y Boyfriends (2015)- Kathy
+			-Peg & Cat (2016)- President
+			-American Crime (2017)- Abby Tanaka
+			-SNL: Cut for Time (2019)- Admission Officer
+			-She-Ra and the Princesses of Power (2018-2020)- Castaspella
+			-Invincible (2021)- Debbie Grayson
+			-Killing Eve (2018-2022)- Eve Polastri
+
+
+
+FINISH TODAY!!!! 
+ALL TABLES: CSS AND HTML
+
+
 
