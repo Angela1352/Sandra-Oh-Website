@@ -56,33 +56,90 @@ font-family: 'Cinzel', serif;
 font-family: 'Comfortaa', cursive;
 font-family: 'Lora', serif;
 
-
 		
-		
-		
-			-Judging Amy (2001)- Detective Shelly Tran
-			-Arli$$ (1996-2002)- Rita Wu
-			-The Proud Family (2001-2002)- Marsha Mitsubishi
-			-Odd Job Jack (2006)- Vanessa
-			-American Dragon: Jake Long (2006-2007)- Sun Park
-			-Robot Chicken (2009)
-			-Michael: Every Day (2011)- Dr. Judy Song
-			-Phineas and Ferb (2008-2012)
-			-American Dad! (2005-2013)
-			-Grey's Anatomy (2005-2014)- Dr. Cristina Yang
-			-Betas (2014)- Sharron
-			-S****y Boyfriends (2015)- Kathy
-			-Peg & Cat (2016)- President
-			-American Crime (2017)- Abby Tanaka
-			-SNL: Cut for Time (2019)- Admission Officer
-			-She-Ra and the Princesses of Power (2018-2020)- Castaspella
-			-Invincible (2021)- Debbie Grayson
-			-Killing Eve (2018-2022)- Eve Polastri
-
 
 
 FINISH TODAY!!!! 
 ALL TABLES: CSS AND HTML
+and table of contents
+
+	
 
 
 
+		
+		-2006- Nominee- Drama Supporting Actress (Grey's Anatomy)- Gold Derby Awards
+		-2006- Nominee- Ensemble of the Year (Grey's Anatomy)- Gold Derby Awards
+		-2006- Nominee- Outstanding Performance by an Ensemble in a Drama Series (Grey's Anatomy)- Screen Actors Guild Awards
+		-2006- Winner- Outstanding Performance by a Female Actor in a Drama Series- Screen Actors Guild Awards
+		-2006- Winner- Best Esemble, Television (Grey's Anatomy)- Satellite Award
+		-2006- Winner Best Supporting Actress in a Drama Series (Grey's Anatomy)- Online Film & Television Association
+		-2006- Winner- Best Performance by an Actress in a Supporting Role in a Series, Miniseries or Motion Picture Made for Television (Grey's Anatomy)- Golden Globes,
+		-2006- Nominee Best Supporting Actress (Wilby Wonderful)- Chlotrudis Awards
+		-2006- Nominee- Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)- Primetime Emmy Awards
+
+		-2007- Winner- Outstanding Performance by an Ensemble in a Drama Series (Grey's Anatomy)- Screen Actors Guild Awards
+		-2007- Nominee- Best Supporting Actress in a Drama Series (Grey's Anatomy)- Online Film & Television Association
+		-2007- Nominee- Outstanding Actress- Drama Series (Grey's Anatomy)- Monte-Carlo TV Festival
+		-2007- Nominee- Ensemble of the Year (Grey's Anatomy)- Gold Derby Awards
+		-2007- Nominee- Drama Supporting Actress (Grey's Anatomy)- Gold Derby Awards
+		-2007- Nominee- Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)- Primetime Emmy Awards
+
+		-2008- Nominee- Outstanding Performance by an Ensemble in a Drama Series (Grey's Anatomy)- Screen Actors Guild Awards
+		-2008- Nominee- Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)- Primetime Emmy Awards
+
+		-2009- Nominee- Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)- Primetime Emmy Awards
+
+		-2010- Nominee- Outstanding Actress in a Drama Series (Grey's Anatomy)- Image Awards (NAACP)
+		-2010- Nominee- Drama Supporting Actress of the Decade (Grey;s Anatomy)- Gold Derby Awards
+
+		-2011- Nominee- Favorite TV Doctor (Grey's Anatomy)- People's Choice Awards, USA
+		-2011- Nominee- Favorite TV Drama Actress- People's Choice Awards, USA
+		-2011- Nominee- Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)- Image Awards (NAACP)
+
+		-2012- Nominee- Outstanding Actress in a Drama Series (Grey's Anatomy)- Image Awards (NAACP)
+		-2012- Nominee Drama Supporting Actress (Grey's Anatomy)- Gold Derby Awards
+
+		-2013 Nominee- Outstanding Actress in a Drama Series (Grey's Anatomy)- Image Awards (NAACP)
+
+		-2014- Nominee- Favorite TV Gal Pals (Grey's Anatomy)- People's Choice Awards, USA
+		-2014- Nominee- Favourite Dramatic TV Actress- People's Choice Awards, USA
+
+		-2015- Winner- Favourite TV Chaaracter We Miss Most (Grey's Anatomy)- People's Choice Awards, USA
+
+		-2016- Winner- Best Actress in a Short (The Scarecrow)- Hollywood Reel Independant Film Festival
+
+		-2018- Nominee- Individual Achievement in Drama (killing Eve)- Television Critics Association Awards
+		-2018- Nominee- Best Actress in a Drama Series (Killing Eve)- Online Film & Television Association
+		-2018- Nominee- Best Dramatic TV Performance (Killing Eve)- IGN Summer Movie Awards
+		-2018- Nominee- Drama Actress (Killing Eve)- Gold Derby Awards
+		-2018- Nominee- Outstanding Lead Actress in a Drama Series (Killing Eve)- Primetime Emmy Awards
+
+		-2019- Winner- Outstanding Performance by a Female Actor in a Drama Series (killing Eve)- Screen Actors Guild Awards
+		-2019- Nominee-Best Actress in a Series, Drama/Genre (Killing Eve)- Satellite Awards
+		-2019- Nominee- Actor- Female (Killing Eve)- RTS Television Award
+		-2019- Winner- Best Actress in a Drama Series (Killing Eve)-Online Film & Television Association
+		-2019- Nominee- Outstanding Actress- Drama Series (Killing Eve)- Monte-Carlo TV Festival
+		-2019- Winner- Best Performance by an Actress in a Television Series - Drama (Killing Eve)- Golden GLobes, USA
+		-2019- Nominee- Comedy Guest Actress (SNL)- Gold Derby Awards
+		-2019- Nominee- Drama Lead Actress (Killing Eve)- Gold Derby Awards
+		-2019- Winner- TV Performance of the Year - Actress (Killing Eve)- GALECA: The Society of LGBTQ Entertainment Critics
+		-2019- Nominee Best Performance in a TV Series (Killing Eve)- Etna Comics International Film Festival
+		-2019- Nominee- Best Actress (Killing Eve)- Broadcasting Press Guild Awards
+		-2019- Winner- Best Actress in a Drama Series (Killing Eve)- Broadcast Film Critics Association Awards
+		-2019- Nominee- Best Actress in a Television Series (Killing Eve)- Academy of Science Fiction, Fantasy & Horror Films, USA
+		-2019- Nominee- Best Leading Actress (Killing Eve)- BAFTA Awards
+		-2019- Nominee- Outstanding Guest Actress in a Comedy Series (SNL)- Primetime Emmy Awards
+		-2019- Nominee- Outstanding Drama Series (Killing Eve)- Primetime Emmy Awards
+		-2019- Nominee- Outstanding Lead Actress in a Drama Series (Killing Eve)- Primetime Emmy Awards
+		-2019- Nominee- Outstanding Variety Special (Live) (The 76th Annual GOlden Globe Awards 2019)- Primetime Emmy Awards
+
+		-2020- Nominee- Actress Drama Series (Killing Eve)- Women's Image Network Awards
+		-2020- Nominee- Favorite Drama TV Star (Killing Eve)- People's Choice Awards, USA
+		-2020- Nominee- Favorite Female TV Star (Killing Eve)- People's Choice Awards, USA
+		-2020- Nominee- Best Actress in a Drama Series (Killing Eve)- Online Film & Television Association
+		-2020- Nominee- Outstanding Drama Series (Killing Eve)- Primetime Emmy Awards
+		-2020- Nominee- Outstanding Lead Actress in a Drama Series (Killing Eve)_ Primetime Emmy Awards
+
+		-2021- Nominee- Best Actress in a Series, Drama/Genre (Killing Eve)- Satellite Awards
+		-2021- Nominee- Best Kiss (Killing Eve)- MTV Movie + TV Awards
