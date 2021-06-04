@@ -11,15 +11,20 @@ body {
 
 
 h1 {
-	background-color: rgba(146,176,236, 0.7);
 	color: white;
-	text-shadow: 20px 20px 50px #4C4C4C; !!!! ADDING SHADOWS
+	text-shadow: 20px 20px 50px #4C4C4C; 
 	text-align: center;
 	border-color: black;
 	border-width: medium;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-size: 50pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Song Myung', serif;
+font-family: 'Source Serif Pro', serif;
 }
 
 P {
@@ -66,23 +71,69 @@ table {
 	Background: white;
 	width: 100%;
 	text-align: left;
-	color: black
-
-
+	color: black;
+	padding: 5px;
+	width: 100%;
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: left;
 }
 
-tr {
 
 
+td {
+	color: black;
+	padding: 3px;
+	width: 33%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	
 }
 
 th {
-
-
-
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 33%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
 }
+
+tr:hover {background-color: #E4EBFA;}
+
 
 a {
 	color: white;
+}
+
+hr {
+	size: 100px;
+	
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
