@@ -30,6 +30,8 @@ h1 {
 
 h2 {
 margin-top: 50px;
+text-shadow: 2px 2px 5px black;
+color: pink;
 
 }
 
@@ -39,6 +41,7 @@ font-size: 18pt;
 color: pink;
 margin-top: 50px;
 margin-bottom: 10px;
+font-family: 'Satisfy', cursive; 
 }
 
 P {
@@ -46,6 +49,7 @@ P {
 	text-align: left;
 	margin: 10px;
 	font-size: 16pt;
+	width: 800px;
 }
 
 ul {
@@ -79,25 +83,119 @@ img {
 	border: 4px white solid;
 	border-radius: 10px;
 	box-shadow: 6px 6px 6px #F8E3FB;
+}
 
-
-img.red {
-
-
+img.one {
+	float: right;
+	margin-left: 20px;
+	margin-right: 10px;
+	border: 4px white solid;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px #F8E3FB;
+	
 }
 
 table {
-	Background: white;
+	background: white;
 	width: 100%;
 	text-align: left;
 	color: black;
 	padding: 5px;
-	width: 100%;
 	border: 2px solid black;
 	border-collapse: collapse;
 	text-align: left;
+	table-layout: fixed;
 }
 
+th.two {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 45%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
+
+th.three {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 10%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
+
+
+th.four {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 45%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+	
+	
+}
+th.five {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 33%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
+th.six {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 10%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
+th.seven {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 12%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
+th.seven {
+	color: solid black;
+	background-color: #92B0EC;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	width: 48%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 70px;
+	font-size: 20pt;
+}
 
 
 td {
@@ -125,16 +223,22 @@ th {
 tr:hover {background-color: #F8E3FB;}
 tr:nth-child(even) {background-color: #E4EBFA;}
 
-
 a {
-	color: solid white;
+	color: white;
 	font-size: 15pt;
-	text-decoration: none;
 }
 
 hr {
-  height: 5px;
-  background-color: white;
+	height: 5px;
+	background-color: white;
 	margin-top: -3px;
 	margin-bottom: -3px
 }
+
+p.nine {
+	font-size: 16pt;
+	color: white;
+}
+
+
+

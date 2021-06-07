@@ -21,20 +21,18 @@ TO DO STILL:
 
 
 ASK!!
--links turned blue, hr css doesn't work anymore, tables don't work anymore
 -sandra oh's career history, make text not pass picture 
 -how to align all images on history page. 
+-why classes aren't working for tables
 
 TO DO: 
 
 Bibliography: 
--links turn white
 -make hr to normal
+-make headings text normal
 
 Gallery:
--Change Sandra Oh gallery to different font: font-family: 'Satisfy', cursive; 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+-Change Sandra Oh gallery to different font: 
 -make images into classes- arrange everything so it looks pretty
 -add all images that haven't been used
 
@@ -42,6 +40,8 @@ Achievements:
 -Make charts normal
 -table of content links white
 -arrange pictures all nicely... maybe add more
+-table: make class so things are even
+
 
 History:
 -table of contents normal
@@ -51,34 +51,7 @@ History:
 
 ALL: 
 -make bottom link add class, and make it bigger and middle of page with maybe background
--Make hr line normal
 -Make all headings pink, and add shadow!! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
