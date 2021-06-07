@@ -1,47 +1,6 @@
-Photos:
-
-https://ebosscanada.com/sandra-oh-narrates-documentary-about-work-of-primatologist-jane-goodall/
-https://www.vox.com/culture/2019/1/7/18171587/sandra-oh-golden-globes-2019-history-milestones
-https://www.pinterest.ca/pin/457396905901008799/
-https://www.vulture.com/2021/05/sandra-oh-says-she-wont-return-to-greys-anatomy-season-18.html
-https://www.instyle.com/celebrity/sandra-oh-aging-hollywood
-https://insightla.org/teacher/sandra-oh/
-http://nwasianweekly.com/2019/01/sandra-oh-hosts-and-also-wins-at-the-golden-globes/
-https://celebmafia.com/sandra-oh-2019-critics-choice-awards-1782995/
-https://www.popsugar.com/entertainment/Sandra-Oh-Speech-2019-SAG-Awards-Video-45720218
-https://www.popsugar.com/celebrity/Sandra-Oh-2018-Emmys-45280245
-https://www.glamour.com/story/sandra-oh-fought-with-greys-anatomy-writers-and-shonda-rhimes
-https://www.vulture.com/2018/08/sandra-oh-on-killing-eve-and-her-emmy-nomination.html
-https://www.elle.com/culture/celebrities/a23291052/sandra-oh-parents-emmy-awards-2018/
-https://deadline.com/2020/07/killing-eve-season-4-delayed-indefinitely-coronavirus-1202994165/
-https://heavy.com/entertainment/2019/01/sandra-oh-partner-husband-alexander-payne/
-https://www.newswire.ca/news-releases/integrated-operating-rooms-to-grow-exponentially-with-virtual-reality-and-artificial-intelligence-878379503.html
-http://www.sbjctjournal.com/2018/05/27/sandra-oh/
-
-haven't added link yet:
-
-
-------------------------------
-LINKS TO RESEARCH:
-
-https://www.vox.com/culture/2019/1/7/18171587/sandra-oh-golden-globes-2019-history-milestones
-https://en.wikipedia.org/wiki/Sandra_Oh
-https://www.sutori.com/story/sandra-oh--xbbD6zF4rixt6Xnbn8XzUiVC
-https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Sandra_Oh
-https://www.imdb.com/name/nm0644897/
-https://www.imdb.com/name/nm0644897/awards?ref_=nm_awd
-
->>>>>HAVEN'T ADDED LINK YET:
-
-
-
-------------------------------
-VIDEOS:
->https://www.youtube.com/watch?v=juzSN0ZlHSI
-------------------------------
 
 PHOTOS USED:
-1, 2, 3, 4, 5, 6, 7, 8.0, 8.1, 
+1, 2, 3, 4, 5, 6, 7, 8.0, 8.1, 8.2, 8.4, 
 ------------------------------
 Theme: My website background picture  is a surgical operating room because Sandra Oh starred in Grey's Anatomy for almost 10 years. The div is a dark blue because Sandra Oh's character Cristina was an attending at Grey-Sloan Memorial Hospital when she left, and attending's scrubs are in the same shade of dark blue. 
 
@@ -51,24 +10,49 @@ Intern colour https://www.color-hex.com/color/92b0ec
 
 Fonts: 
 
-<link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Comfortaa&family=Lora&display=swap" rel="stylesheet">
-CSS rules to specify families
-font-family: 'Cinzel', serif;
-font-family: 'Comfortaa', cursive;
-font-family: 'Lora', serif;
-
 		
 
 
-FINISH TODAY!!!! 
-ALL TABLES: CSS AND HTML
-and table of contents
-
-	
+TO DO STILL:
 
 
 
+
+
+
+ASK!!
+-links turned blue, hr css doesn't work anymore, tables don't work anymore
+-sandra oh's career history, make text not pass picture 
+-how to align all images on history page. 
+
+TO DO: 
+
+Bibliography: 
+-links turn white
+-make hr to normal
+
+Gallery:
+-Change Sandra Oh gallery to different font: font-family: 'Satisfy', cursive; 
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+-make images into classes- arrange everything so it looks pretty
+-add all images that haven't been used
+
+Achievements:
+-Make charts normal
+-table of content links white
+-arrange pictures all nicely... maybe add more
+
+History:
+-table of contents normal
+-arrange pictures nicely
+-arrange words nicely
+
+
+ALL: 
+-make bottom link add class, and make it bigger and middle of page with maybe background
+-Make hr line normal
+-Make all headings pink, and add shadow!! 
 
 
 

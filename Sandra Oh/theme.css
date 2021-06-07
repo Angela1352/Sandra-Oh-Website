@@ -1,6 +1,6 @@
 
 body {
-	font-family: Helvetica Ultra Compressed;
+	font-family: times new roman;
 	background-image:  url(Zoperating.jpg);
 	border: 15 px solid black;
 	background-attachment: fixed;
@@ -12,19 +12,33 @@ body {
 
 h1 {
 	color: white;
-	text-shadow: 20px 20px 50px #4C4C4C; 
+	text-shadow: 20px 20px 50px #4C4C4C;
 	text-align: center;
 	border-color: black;
 	border-width: medium;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-size: 50pt;
-	margin-top: 0px;
+ 	margin-top: 0px;
 	margin-bottom: 0px;
-font-family: 'Cormorant Garamond', serif;
-font-family: 'Dancing Script', cursive;
-font-family: 'Song Myung', serif;
-font-family: 'Source Serif Pro', serif;
+	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Song Myung', serif;
+	font-family: 'Source Serif Pro', serif;
+	text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+margin-top: 50px;
+
+}
+
+
+h3 {
+font-size: 18pt;
+color: pink;
+margin-top: 50px;
+margin-bottom: 10px;
 }
 
 P {
@@ -54,16 +68,21 @@ div {
 	margin-bottom: 80px;
 	margin-top: 50px;
 	background-color: rgba(0,55,109,0.79);
+	text-align: justify;
 }
 
 
 img {
 	float: right;
 	margin-left: 20px;
-	width: 300px;
-	border: 5px white solid;
+	margin-right: 10px;
+	border: 4px white solid;
 	border-radius: 10px;
-	box-shadow: 10px 10px 12px #4C4C4C;
+	box-shadow: 6px 6px 6px #F8E3FB;
+
+
+img.red {
+
 
 }
 
@@ -87,7 +106,7 @@ td {
 	width: 33%;
 	border: 1px solid black;
 	border-collapse: collapse;
-	
+
 }
 
 th {
@@ -103,37 +122,19 @@ th {
 	font-size: 20pt;
 }
 
-tr:hover {background-color: #E4EBFA;}
+tr:hover {background-color: #F8E3FB;}
+tr:nth-child(even) {background-color: #E4EBFA;}
 
 
 a {
-	color: white;
+	color: solid white;
+	font-size: 15pt;
+	text-decoration: none;
 }
 
 hr {
-	size: 100px;
-	
-	
+  height: 5px;
+  background-color: white;
+	margin-top: -3px;
+	margin-bottom: -3px
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
