@@ -41,7 +41,8 @@ font-size: 18pt;
 color: pink;
 margin-top: 50px;
 margin-bottom: 10px;
-font-family: 'Satisfy', cursive; 
+font-family: 'Satisfy', cursive;
+text-shadow: 20px 20px 50px #4C4C4C;
 }
 
 P {
@@ -76,7 +77,7 @@ div {
 }
 
 
-img {
+img.eighteen {
 	float: right;
 	margin-left: 20px;
 	margin-right: 10px;
@@ -85,15 +86,72 @@ img {
 	box-shadow: 6px 6px 6px #F8E3FB;
 }
 
-img.one {
-	float: right;
+
+img.twelve {
+margin-bottom: 100px;
+margin-left: 20px;
+margin-right: 10px;
+border: 4px white solid;
+border-radius: 10px;
+box-shadow: 6px 6px 6px #F8E3FB;
+}
+
+img.nineteen {
+float: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+img.twenty {
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+border: 4px white solid;
+border-radius: 10px;
+box-shadow: 6px 6px 6px #F8E3FB;
+}
+
+p.red {
+margin-right: auto;
+margin-left: auto;
+margin-bottom: -10px;
+margin-top: 30px;
+font-size: 16pt;
+color: black;
+text-align: center;
+background: rgba(255,198,208, 0.75);
+}
+
+img.sixteen {
+	float: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 4px white solid;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px #F8E3FB;
+}
+
+img.seventeen {
 	margin-left: 20px;
 	margin-right: 10px;
 	border: 4px white solid;
 	border-radius: 10px;
 	box-shadow: 6px 6px 6px #F8E3FB;
-	
 }
+
+iframe.fifteen {
+	float: center;
+	margin: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px white solid;
+	border-radius: 10px;
+	box-shadow: 4px 4px 4px #F8E3FB;
+}
+
 
 table {
 	background: white;
@@ -145,8 +203,8 @@ th.four {
 	border-collapse: collapse;
 	height: 70px;
 	font-size: 20pt;
-	
-	
+
+
 }
 th.five {
 	color: solid black;
@@ -154,7 +212,7 @@ th.five {
 	color: black;
 	padding: 3px;
 	text-align: center;
-	width: 33%;
+	width: 32%;
 	border: 1px solid black;
 	border-collapse: collapse;
 	height: 70px;
@@ -166,7 +224,7 @@ th.six {
 	color: black;
 	padding: 3px;
 	text-align: center;
-	width: 10%;
+	width: 8%;
 	border: 1px solid black;
 	border-collapse: collapse;
 	height: 70px;
@@ -178,19 +236,19 @@ th.seven {
 	color: black;
 	padding: 3px;
 	text-align: center;
-	width: 12%;
+	width: 15%;
 	border: 1px solid black;
 	border-collapse: collapse;
 	height: 70px;
 	font-size: 20pt;
 }
-th.seven {
+th.eight {
 	color: solid black;
 	background-color: #92B0EC;
 	color: black;
 	padding: 3px;
 	text-align: center;
-	width: 48%;
+	width: 50%;
 	border: 1px solid black;
 	border-collapse: collapse;
 	height: 70px;
@@ -228,17 +286,51 @@ a {
 	font-size: 15pt;
 }
 
+
 hr {
 	height: 5px;
 	background-color: white;
 	margin-top: -3px;
-	margin-bottom: -3px
+	margin-bottom: -3px;
+	border: none;
+	border-bottom: 2px solid #000000;
+	box-shadow: 0 20px 20px -20px #000000;
 }
 
 p.nine {
 	font-size: 16pt;
-	color: white;
+	color: black;
+	text-align: center;
+	background: rgba(255,198,208, 0.75);
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: -6px;
 }
 
 
+p.eleven {
+	font-size: 16pt;
+	color: black;
+	text-align: center;
+	background: rgba(255,198,208, 0.75);
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: -20px;
+}
 
+p.fourteen {
+font-size: 16pt;
+color: black;
+text-align: center;
+background: rgba(255,198,208, 0.75);
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+margin-bottom: -50px;
+
+}
+
+a.links {
+color: #383638;
+
+}

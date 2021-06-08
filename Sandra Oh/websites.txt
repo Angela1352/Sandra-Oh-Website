@@ -1,35 +1,15 @@
 
-PHOTOS USED:
-1, 2, 3, 4, 5, 6, 7, 8.0, 8.1, 8.2, 8.4, 
 ------------------------------
 Theme: My website background picture  is a surgical operating room because Sandra Oh starred in Grey's Anatomy for almost 10 years. The div is a dark blue because Sandra Oh's character Cristina was an attending at Grey-Sloan Memorial Hospital when she left, and attending's scrubs are in the same shade of dark blue. 
 
+	
 
-Intern colour https://www.color-hex.com/color/92b0ec
-
-
-Fonts: 
-
-		
-
-
-TO DO STILL:
-
-
-
-
-
-
-ASK!!
--sandra oh's career history, make text not pass picture 
--how to align all images on history page. 
--why classes aren't working for tables
 
 TO DO: 
 
 Bibliography: 
--make hr to normal
--make headings text normal
+DONE!!!
+
 
 Gallery:
 -Change Sandra Oh gallery to different font: 
@@ -37,24 +17,11 @@ Gallery:
 -add all images that haven't been used
 
 Achievements:
--Make charts normal
--table of content links white
--arrange pictures all nicely... maybe add more
--table: make class so things are even
+DONE!!!
 
 
 History:
--table of contents normal
--arrange pictures nicely
--arrange words nicely
-
-
-ALL: 
--make bottom link add class, and make it bigger and middle of page with maybe background
--Make all headings pink, and add shadow!! 
-
-
-
+DONE!!!
 
 
 
